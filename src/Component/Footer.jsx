@@ -57,6 +57,8 @@ export default function Footer() {
         <div className="row">
           <div className="col-md-12 text-center mx-auto">
             <p className="text-soft-pearl-grey">&copy; 2024 Royal Jewellers. All Rights Reserved.</p>
+            <p className="text-soft-pearl-grey">Designed & Developed by <a href="https://bilal-19.github.io/portfolio/" rel="nofollow" target="_blank"
+            className="text-decoration-none text-soft-pearl-grey" id="backlink">Bilal Muhammad Yousuf</a></p>
           </div>
         </div>
       </div>
